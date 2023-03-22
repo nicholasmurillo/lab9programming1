@@ -1,3 +1,5 @@
+# This is Nicholas Murillo's code
+
 def encode(num_string):  # encoding an inputted string
     encoded_string = ""  # starts empty string
     for i in num_string:
